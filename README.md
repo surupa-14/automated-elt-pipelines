@@ -1,6 +1,5 @@
-# 🏙️ NYC 311 Automated ETL Pipeline
 
-![Banner](nyc311-etl-pipeline/assets/banner.png)
+# 🏙️ NYC 311 Automated ETL Pipeline
 
 ## 📋 Overview
 
@@ -143,5 +142,4 @@ Connect Power BI to the PostgreSQL instance:
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
-*Developed with ❤️ for the Data Engineering community.*
+
